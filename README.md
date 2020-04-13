@@ -1,4 +1,5 @@
 # Elementaliste
 
-Configuration des touches
+# Configuration des touches
+
 TODO
