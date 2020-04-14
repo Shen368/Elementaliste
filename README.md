@@ -1,6 +1,14 @@
 # Elementaliste
 
 # Configuration des touches
+A : Se déplacer sur la gauche
+
+D : Se déplacer sur la droite
+
+Espace : Sauter
+
+Souris : Viser et tirer
+
 1 : Passer en maitrise de la Terre
 
 2 : Passer en maitrise de l'Air
